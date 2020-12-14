@@ -1,0 +1,96 @@
+{
+  "signatureFields": {
+    "signatureName": "John Doe",
+    "signatureTitle": "SEO",
+    "signatureMail": "info@twentysevenagency.com",
+    "signatureTelMobile": "",
+    "signatureTelWork": "",
+    "signatureCompanyLogo": "twentyseven",
+    "signatureCompanyNameSimple": "twentyseven",
+    "signatureCompanyAddress": "Torenallee 3",
+    "signatureCompanyZip": "5617 BA",
+    "signatureCompanyCity": "Eindhoven",
+    "signatureCompanyWebAddress": "https://www.twentysevenagency.com",
+    "signatureCompanyWebAddressLabel": "twentysevenagency.com",
+    "signatureCompanyColorCode": "#27a95a"
+  },
+  "handPickedCompany": [
+    {
+      "companyId": "0",
+      "companyName": "Bluebird Day",
+      "companyNameSimple": "bluebirdday",
+      "companyAddress": "Reduitlaan 29",
+      "companyZip": "4814 DC",
+      "companyCity": "Breda",
+      "companyWebAddress": "https://www.bluebirdday.nl/",
+      "companyWebAddressLabel": "bluebirdday.nl",
+      "companyColorCode": "#1d5dfa"
+    },
+    {
+      "companyId": "1",
+      "companyName": "Boldly XR",
+      "companyNameSimple": "boldlyxr",
+      "companyAddress": "Reduitlaan 29",
+      "companyZip": "4814 DC",
+      "companyCity": "Breda",
+      "companyWebAddress": "https://www.boldly-xr.com/",
+      "companyWebAddressLabel": "boldly-xr.com",
+      "companyColorCode": "#eb33eb"
+    },
+    {
+      "companyId": "2",
+      "companyName": "E-sites",
+      "companyNameSimple": "esites",
+      "companyAddress": "Reduitlaan 29",
+      "companyZip": "4814 DC",
+      "companyCity": "Breda",
+      "companyWebAddress": "https://e-sites.nl/",
+      "companyWebAddressLabel": "e-sites.nl/",
+      "companyColorCode": "#eb5777"
+    },
+    {
+      "companyId": "3",
+      "companyName": "Fingerspitz",
+      "companyNameSimple": "fingerspitz",
+      "companyAddress": "Reduitlaan 29",
+      "companyZip": "4814 DC",
+      "companyCity": "Breda",
+      "companyWebAddress": "https://fingerspitz.nl/",
+      "companyWebAddressLabel": "fingerspitz.nl/",
+      "companyColorCode": "#ffd342"
+    },
+    {
+      "companyId": "4",
+      "companyName": "TDE",
+      "companyNameSimple": "tde",
+      "companyAddress": "Torenallee 3",
+      "companyZip": "5617 BA",
+      "companyCity": "Eindhoven",
+      "companyWebAddress": "https://www.tde.nl/",
+      "companyWebAddressLabel": "tde.nl/",
+      "companyColorCode": "#00e776"
+    },
+    {
+      "companyId": "5",
+      "companyName": "TwentySeven Agency",
+      "companyNameSimple": "twentyseven",
+      "companyAddress": "Torenallee 3",
+      "companyZip": "5617 BA",
+      "companyCity": "Eindhoven",
+      "companyWebAddress": "https://www.twentysevenagency.com",
+      "companyWebAddressLabel": "twentysevenagency.com",
+      "companyColorCode": "#27a95a"
+    },
+    {
+      "companyId": "6",
+      "companyName": "Weekend",
+      "companyNameSimple": "weekend",
+      "companyAddress": "kortstraat 1",
+      "companyZip": "2000 AA",
+      "companyCity": "Breda",
+      "companyWebAddress": "https://www.weekend.com",
+      "companyWebAddressLabel": "weekendagency.com",
+      "companyColorCode": "#ff85b4"
+    }
+  ]
+}
